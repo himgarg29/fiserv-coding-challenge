@@ -1,0 +1,9 @@
+# Default settings
+server:
+  port: 8080
+  servlet:
+    context-path: /fiserv-application
+
+downstream:
+  wiki:
+    baseUrl: 'https://en.wikipedia.org/w/api.php'
